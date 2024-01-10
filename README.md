@@ -1,11 +1,8 @@
 # Starter-codes-for-bootstrap-and-sass-projects
 > Hey There!, I am Elbek
 「 Google Me 」
-「 I am a full stack web application developer from Bangladesh 」
-
-
-
-
+「 I am web developer 」
+#my contact phone number: +998 88 941 83 88
 
 About me
 Coding gif
@@ -25,15 +22,6 @@ Javascript Typescript React React Native Next.js Nodejs Express.js MongoDB HTML 
 
 
 Top Open Source -
-iTasks urFolio Web Projects Al Siam Readme
-
-All Repositories
+iTasks urFolio Web Projects elbek Readme
 
 
-
-Saif's GitHub streak
-
-Al Siam's GitHub Contribution
-
-Al Siam's Github Stats Al Siam's Top Languages
-Al Siam's Graph
